@@ -16,8 +16,6 @@
 - Concorrência de agendamento: O sistema deve garantir que o agendamento seja permitida para um determinado horários.
 - Validação de conflito de horários: O sistema deve validar a disponibilidade do horário selecionado e assegurar que não haja sobreposição de horários para consultas agendadas.
 
-<img src="./assets/arch.png">
-
 ##  Tarefas
 - [x] Estrutura
     - [x] Classes compartilhadas
