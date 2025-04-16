@@ -19,8 +19,6 @@
 <img src="./assets/arch.png">
 
 ##  Tarefas
-- [x] Script SQL
-- [x] Documentação
 - [x] Estrutura
     - [x] Classes compartilhadas
     - [x] Value Objects
@@ -44,13 +42,6 @@
     - [x] POST | Criação paciente
     - [x] POST | Autenticação paciente
 - [x] Testes unitários
-    - [x] Value Objects
-    - [x] Pacientes
-    - [x] Doutores
-- [x] CI/CD
-- [x] Autenticação
-    - [x] Policy para Doutores
-    - [x] Policy para Pacientes
     
 ## Métodos
 
