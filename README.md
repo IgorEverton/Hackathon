@@ -16,20 +16,18 @@
 - Concorrência de agendamento: O sistema deve garantir que o agendamento seja permitida para um determinado horários.
 - Validação de conflito de horários: O sistema deve validar a disponibilidade do horário selecionado e assegurar que não haja sobreposição de horários para consultas agendadas.
 
-##  Métodos
-- [x] Endpoints
-    - [x] POST | Autenticação médico
-    - [x] POST | Criação de médico
-    - [x] POST | Criação de horário disponível de médico
-    - [x] PUT | Atualização de horário de médico
-    - [x] GET | Listagem de medicos
-    - [x] GET | Listagem de horarios disponiveis por médico
-    - [x] POST | Agendamento de paciente e médico
-    - [x] PATCH | Cancelamento de agendamento
-    - [x] PATCH | Aceitação/Recusa de agendamento
-    - [x] POST | Criação paciente
-    - [x] POST | Autenticação paciente
-- [x] Testes unitários
+##  Endpoints
+- [x] POST | Autenticação médico
+- [x] POST | Criação de médico
+- [x] POST | Criação de horário disponível de médico
+- [x] PUT | Atualização de horário de médico
+- [x] GET | Listagem de medicos
+- [x] GET | Listagem de horarios disponiveis por médico
+- [x] POST | Agendamento de paciente e médico
+- [x] PATCH | Cancelamento de agendamento
+- [x] PATCH | Aceitação/Recusa de agendamento
+- [x] POST | Criação paciente
+- [x] POST | Autenticação paciente
     
 ## Métodos
 
