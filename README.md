@@ -16,17 +16,7 @@
 - Concorrência de agendamento: O sistema deve garantir que o agendamento seja permitida para um determinado horários.
 - Validação de conflito de horários: O sistema deve validar a disponibilidade do horário selecionado e assegurar que não haja sobreposição de horários para consultas agendadas.
 
-##  Tarefas
-- [x] Estrutura
-    - [x] Classes compartilhadas
-    - [x] Value Objects
-        - [x] Nome
-        - [x] Senha
-        - [x] Cpf
-        - [x] Email
-        - [x] Crm
-    - [x] Entidades
-    - [x] Conexão com banco de dados
+##  Métodos
 - [x] Endpoints
     - [x] POST | Autenticação médico
     - [x] POST | Criação de médico
